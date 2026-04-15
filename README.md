@@ -1,4 +1,4 @@
-# FinSecure SA — Security Labs Series
+# FinSecure SA : Security Labs Series
 
 > A practical cybersecurity lab series implementing 
 > real security controls mapped to regulatory 
@@ -26,7 +26,7 @@ and honest gap analysis.
 
 ---
 
-## The Company — FinSecure SA
+## The Company : FinSecure SA
 
 **FinSecure SA** is a fictional Moroccan financial 
 services firm used as the lab environment throughout 
