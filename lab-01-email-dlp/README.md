@@ -657,7 +657,7 @@ your IT security team."
 
 The email did not reach Gmail.
 
-![Test 1 Rejection](./screenshots/06-test1-rejection.png)
+![Test 1 Rejection](./screenshots/06-test1-rejection.PNG)
 
 ### Test 2 - DLP Warn Rule: Single Record to Business Domain
 
