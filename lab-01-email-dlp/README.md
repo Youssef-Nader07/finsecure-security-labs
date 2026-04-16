@@ -600,15 +600,6 @@ the Testing Results section.
 
 ## Testing Results
 
-Six tests were conducted to validate the 
-implemented controls across different scenarios. 
-Tests were designed to cover both expected 
-behavior and deliberate bypass attempts. 
-Results are documented honestly including 
-failures and unexpected behavior.
-
-## Testing Results
-
 Six tests were conducted to validate the implemented 
 controls across different scenarios. Tests covered 
 both expected behavior and deliberate bypass attempts. 
@@ -873,28 +864,6 @@ of encrypted archives containing sensitive data.
 This is addressed in Lab 02 of this series.
 
 ![Test 5b Bypass](./screenshots/11-test5b-bypass.png)
-
-### Testing Summary
-
-| Test | Scenario | Result |
-|---|---|---|
-| Test 1 | Mail flow rule - personal domain block | Pass (after config fix) |
-| Test 2 | DLP warn rule - single record external | Pass (after config fix) |
-| Test 3 | DLP volume block - bulk Excel attachment | Pass (dual notification noted) |
-| Test 4 | Bypass - keyword evasion and format modification | Partial - CIN false positive identified |
-| Test 5a | Bypass - unencrypted ZIP | Pass - Purview inspects ZIP contents |
-| Test 5b | Bypass - encrypted ZIP | Fail - complete bypass confirmed |
-
-Two configuration issues were identified and resolved 
-during testing. Two bypass vectors were confirmed. 
-One false positive issue was identified in the CIN 
-sensitive information type. One unexpected capability 
-was confirmed: Purview inspects unencrypted ZIP archives.
-
-All findings are documented in the Unexpected Findings 
-and Gaps and Limitations sections that follow.
-
----
 
 ### Testing Summary
 
