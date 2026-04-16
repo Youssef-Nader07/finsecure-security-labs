@@ -589,7 +589,7 @@ the Testing Results section.
 ![Mail Flow Rule Configuration](./screenshots/03-mail-flow-rule.png)
 ![DLP Rule 1 Configuration](./screenshots/04-dlp-rule1-config.png)
 ![DLP Rule 2 Configuration](./screenshots/05-dlp-rule2-config.png)
-![Test 1 Rejection](./screenshots/06-test1-rejection.png)
+![Test 1 Rejection](./screenshots/06-test1-rejection.PNG)
 ![Test 2 Policy Tip](./screenshots/07-test2-policy-tip.png)
 ![Test 3 Block](./screenshots/08-test3-block.png)
 ![Test 3 Admin Reports](./screenshots/09-test3-admin-reports.png)
