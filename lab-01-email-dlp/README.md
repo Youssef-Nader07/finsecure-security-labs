@@ -17,7 +17,6 @@ and what a determined insider can still bypass.
 **Regulatory scope:** GDPR Articles 5, 25, 32, 33 
 — ISO/IEC 27001 Annex A.8.12
 
-**Difficulty:** Intermediate
 
 **Lab environment:** Microsoft 365 Business 
 Premium trial tenant
