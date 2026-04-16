@@ -1528,6 +1528,7 @@ component of a compliance program, particularly
 relevant under GDPR Article 83 where the existence 
 of appropriate technical measures is a mitigating 
 factor in the assessment of administrative fines.
+
 ---
 ## Lessons Learned
 
